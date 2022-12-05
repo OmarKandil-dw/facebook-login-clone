@@ -120,12 +120,12 @@ body {
     padding-top: 0;
     }
 
-    .hovere {
+    .hover {
         font-family: SFProText-Semibold, Helvetica, Arial, sans-serif;
         font-size: 14px;
         font-weight: 600;
     }
-    .hovere:hover {
+    .hover:hover {
         border-bottom: 1px solid black;;
         cursor: pointer;
     }
